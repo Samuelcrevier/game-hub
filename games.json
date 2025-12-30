@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Flappy Bird",
+    "description": "Play original flappy bird",
+    "image": "https://github.com/Samuelcrevier/flappy-bird/blob/main/screenshot.png",
+    "play": "https://github.com/Samuelcrevier/flappy-bird/blob/main/index.html",
+    "github": "https://github.com/Samuelcrevier/flappy-bird",
+    "author": "samuel crevier",
+    "dateAdded": "2025-12-30"
+  }
+]
